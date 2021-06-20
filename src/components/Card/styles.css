@@ -1,0 +1,8 @@
+.content{
+    display: flex;
+    align-items: center;
+    width: 50rem;
+    padding: 2rem;
+    background-color: var(--color-content-background);
+    border: 0.1rem solid var(--color-border);
+}

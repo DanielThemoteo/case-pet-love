@@ -1,0 +1,20 @@
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    width: 40%;
+}
+label {
+    margin-bottom: 0.6rem;
+    color: var(--color-title-text);
+    font-weight: bold;
+}
+input {
+    height: 4rem;
+    width: 100%;
+    border: 0.1rem solid var(--color-border);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    color: var(--color-primary-text);
+    background: var(--color-input-background);
+}
